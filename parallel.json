@@ -3,8 +3,8 @@
   "id": "parallel",
   "chainType": "Live",
   "bootNodes": [
-    "/dns/bootnode-1.parallel.fi/tcp/30333/p2p/12D3KooWA3ngBk5UuAvtvANXRJSTjdCT9bz7AcdBqmnR64m3tRWb",
-    "/dns/bootnode-5.parallel.fi/tcp/30333/p2p/12D3KooWGxnMnE1AFriohESDGQnpYBzbxBpRDf3MFNu8yuobJBbF"
+    "/dns/boot.metaspan.io/tcp/16092/p2p/12D3KooWAWknffkU5uJPYSNcJrwh5GN1ofWhFCUUY5uDTaB4yLAN",
+    "/dns/boot.gatotech.network/tcp/33152/p2p/12D3KooWFnXeatXN73ytjDfcUNsoyRxLLK3tqmmzEjhbLhoGCDKt"
   ],
   "telemetryEndpoints": [
     [
